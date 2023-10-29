@@ -1,0 +1,302 @@
+
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Kaki Shirt 1",
+        "price": 120000,
+        "type": "Kaki_Shirt",
+        "location": "Ho Chi Minh",
+        "sold": 100,
+        "image": "assets/image/kaki.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Kaki Shirt 2",
+        "price": 330000,
+        "type": "Kaki_Shirt",
+        "location": "Ha Noi",
+        "sold": 1000,
+        "image": "assets/image/kaki.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kaki Shirt 3",
+        "price": 520000,
+        "type": "Kaki_Shirt",
+        "location": "Da Nang",
+        "sold": 500,
+        "image": "assets/image/kaki.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Kaki Shirt 4",
+        "price": 89000,
+        "type": "Kaki_Shirt",
+        "location": "Binh Duong",
+        "sold": 1500,
+        "image": "assets/image/kaki.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Shirt 1",
+        "price": 130000,
+        "type": "Shirt",
+        "location": "Binh Duong",
+        "sold": 50,
+        "image": "assets/image/shirt.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Shirt 2",
+        "price": 300000,
+        "type": "Shirt",
+        "location": "Binh Duong",
+        "sold": 31,
+        "image": "assets/image/shirt.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Shirt 3",
+        "price": 300000,
+        "type": "Shirt",
+        "location": "Ho Chi Minh",
+        "sold": 250,
+        "image": "assets/image/shirt.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Shirt 4",
+        "price": 50000,
+        "type": "Shirt",
+        "location": "Ha Noi",
+        "sold": 70,
+        "image": "assets/image/shirt.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Shirt 5",
+        "price": 315000,
+        "type": "Shirt",
+        "location": "Ha Noi",
+        "sold": 20,
+        "image": "assets/image/shirt.jpg"
+      },
+      {
+        "id": 10,
+        "name": "T-shirt 1",
+        "price": 300000,
+        "type": "T-Shirt",
+        "location": "Ha Noi",
+        "sold": 55,
+        "image": "assets/image/t-shirt.jpg"
+      },
+      {
+        "id": 11,
+        "name": "T-shirt 2",
+        "price": 230000,
+        "type": "T-Shirt",
+        "location": "Ho Chi Minh",
+        "sold": 0,
+        "image": "assets/image/t-shirt.jpg"
+      },
+      {
+        "id": 12,
+        "name": "T-shirt 3",
+        "price": 78000,
+        "type": "T-Shirt",
+        "location": "Ho Chi Minh",
+        "sold": 51,
+        "image": "assets/image/t-shirt.jpg"
+      },
+      {
+        "id": 13,
+        "name": "T-shirt 4",
+        "price": 99000,
+        "type": "T-Shirt",
+        "location": "Ho Chi Minh",
+        "sold": 11,
+        "image": "assets/image/t-shirt.jpg"
+      },
+      {
+        "id": 14,
+        "name": "T-shirt 5",
+        "price": 300000,
+        "type": "T-Shirt",
+        "location": "Binh Duong",
+        "sold": 33,
+        "image": "assets/image/t-shirt.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Jacket 1",
+        "price": 1000000,
+        "type": "Jacket",
+        "location": "Binh Duong",
+        "sold": 28,
+        "image": "assets/image/jacket.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Jacket 2",
+        "price": 760000,
+        "type": "Jacket",
+        "location": "Binh Duong",
+        "sold": 67,
+        "image": "assets/image/jacket.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Jacket 3",
+        "price": 298000,
+        "type": "Jacket",
+        "location": "Binh Duong",
+        "sold": 500,
+        "image": "assets/image/jacket.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Jacket 4",
+        "price": 85000,
+        "type": "Jacket",
+        "location": "Ho Chi Minh",
+        "sold": 5,
+        "image": "assets/image/jacket.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Jacket 5",
+        "price": 800000,
+        "type": "Jacket",
+        "location": "Ho Chi Minh",
+        "sold": 1,
+        "image": "assets/image/jacket.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Suit 1",
+        "price": 890000,
+        "type": "Suit",
+        "location": "Ho Chi Minh",
+        "sold": 56,
+        "image": "assets/image/suit.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Suit 2",
+        "price": 1220000,
+        "type": "Suit",
+        "location": "Ho Chi Minh",
+        "sold": 79,
+        "image": "assets/image/suit.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Suit 3",
+        "price": 506000,
+        "type": "Suit",
+        "location": "Ha Noi",
+        "sold": 186,
+        "image": "assets/image/suit.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Suit 4",
+        "price": 3500000,
+        "type": "Suit",
+        "location": "Da Nang",
+        "sold": 89,
+        "image": "assets/image/suit.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Suit 5",
+        "price": 2200000,
+        "type": "Suit",
+        "location": "Da Nang",
+        "sold": 4,
+        "image": "assets/image/suit.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Kaki Pant 1",
+        "price": 220000,
+        "type": "Kaki_Pant",
+        "location": "Da Nang",
+        "sold": 0,
+        "image": "assets/image/kaki-pant.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Kaki Pant 2",
+        "price": 500000,
+        "type": "Kaki_Pant",
+        "location": "Da Nang",
+        "sold": 5,
+        "image": "assets/image/kaki-pant.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Kaki Pant 3",
+        "price": 230000,
+        "type": "Kaki_Pant",
+        "location": "Ho Chi Minh",
+        "sold": 55,
+        "image": "assets/image/kaki-pant.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Jogger 1",
+        "price": 150000,
+        "type": "Jogger",
+        "location": "Ho Chi Minh",
+        "sold": 999,
+        "image": "assets/image/jogger.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Jogger 2",
+        "price": 87000,
+        "type": "Jogger",
+        "location": "Ha Noi",
+        "sold": 567,
+        "image": "assets/image/jogger.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Jogger 3",
+        "price": 143000,
+        "type": "Jogger",
+        "location": "Da Nang",
+        "sold": 130,
+        "image": "assets/image/jogger.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Jean 1",
+        "price": 175000,
+        "type": "Jean",
+        "location": "Da Nang",
+        "sold": 30,
+        "image": "assets/image/jean.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Jean 3",
+        "price": 210000,
+        "type": "Jean",
+        "location": "Ha Noi",
+        "sold": 3,
+        "image": "assets/image/jean.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Jean 3",
+        "price": 242000,
+        "type": "Jean",
+        "location": "Ho Chi Minh",
+        "sold": 50,
+        "image": "assets/image/jean.jpg"
+      }
+    ]
+  }
